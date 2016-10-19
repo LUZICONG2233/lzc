@@ -1,0 +1,13 @@
+﻿[{
+	"id":1001,
+	"name":"radio",
+	"relName":"单选题"
+},{
+	"id":1002,
+	"name":"checkbox",
+	"relName":"多选题"
+},{
+	"id":1003,
+	"name":"textarea",
+	"relName":"简答题"
+}]
